@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Sep 20 19:25:34 2018
+# Process ID: 704
+# Current directory: C:/Users/Mian Hashim Shah/Desktop/cmpe125-priorityencoder.runs/synth_1
+# Command line: vivado.exe -log fpga_module.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fpga_module.tcl
+# Log file: C:/Users/Mian Hashim Shah/Desktop/cmpe125-priorityencoder.runs/synth_1/fpga_module.vds
+# Journal file: C:/Users/Mian Hashim Shah/Desktop/cmpe125-priorityencoder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source fpga_module.tcl -notrace

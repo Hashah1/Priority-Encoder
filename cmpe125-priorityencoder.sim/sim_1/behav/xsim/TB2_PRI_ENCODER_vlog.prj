@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../cmpe125-priorityencoder.srcs/sources_1/new/casez1_module.v" \
+"../../../../cmpe125-priorityencoder.srcs/sim_1/new/TB2_PRI_ENCODER.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
